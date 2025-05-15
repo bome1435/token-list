@@ -1,11 +1,9 @@
 {
-  "extends": "./tsconfig",
-  "compilerOptions": {
-    "target": "esnext",
-    "outDir": "dist/module",
-    "module": "esnext"
-  },
-  "exclude": [
-    "node_modules/**"
-  ]
+  "chainId": 101,
+  "address": "AaDRoeDHZKbzm5q8Rr1s39wRp3WTWrNpvuM2Y72WSEDw",
+  "symbol": "MYC",
+  "name": "My Coin",
+  "decimals": 9,
+  "logoURI": "https://https://imgur.com/a/T3JbJJs.png",
+  "tags": ["community"]
 }
